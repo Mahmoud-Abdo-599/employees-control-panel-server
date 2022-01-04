@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "email": "admin@admin.com",
+      "password": "1234",
+      "id": "7k0UIX1"
+    }
+  ],
+  "days": [
+    {
+      "day": "Sunday 2th of January, 2022",
+      "arriveTime": "09:05 am",
+      "exitTime": "17:05 pm",
+      "lunchBreakTimeStart": "01:00 am",
+      "lunchBreakTimeEnd": "02:00 am",
+      "id": "0hjshiJ"
+    },
+    {
+      "day": "Monday 3th of January, 2022",
+      "arriveTime": "10:00 am",
+      "exitTime": "17:00 pm",
+      "lunchBreakTimeStart": "02:00 am",
+      "lunchBreakTimeEnd": "03:00 am",
+      "id": "1hjwhiJ"
+    },
+    {
+      "day": "Tuesday 4th of January, 2022",
+      "arriveTime": "09:00 am",
+      "exitTime": "17:00 pm",
+      "lunchBreakTimeStart": "01:00 am",
+      "lunchBreakTimeEnd": "02:00 am",
+      "id": "2hjrhiJ"
+    }
+  ]
+}
